@@ -18,3 +18,15 @@ A software-only solution to control your PC mouse using hand gestures via a webc
     -   Real-time Mode, FPS, and Gesture display.
 
 ## Prerequisites
+-   Python 3.8+
+-   Webcam
+-   MediaPipe Model (`hand_landmarker.task`)
+
+## Setup Instructions
+
+1.  **Clone/Download** this repository.
+2.  **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
