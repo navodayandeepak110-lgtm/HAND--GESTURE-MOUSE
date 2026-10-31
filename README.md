@@ -15,3 +15,7 @@ Auto-Pause: Activates on hand loss or low FPS.
 Cooldowns: Prevents accidental double-clicks.
 Visual Dashboard:
 Real-time Mode, FPS, and Gesture display.
+Prerequisites
+Python 3.8+
+Webcam
+MediaPipe Model (hand_landmarker.task)
