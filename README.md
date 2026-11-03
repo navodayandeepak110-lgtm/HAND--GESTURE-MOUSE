@@ -39,4 +39,8 @@ A software-only solution to control your PC mouse using hand gestures via a webc
     python main.py
     ```
 
+## ✋ Gesture Guide (Detailed Patterns)
 
+### 1. **MOVE CURSOR**
+*   **Pattern**: Raise **Index Finger** ONLY. Keep other fingers curled.
+*   **Action**: The mouse cursor follows your index fingertip.
