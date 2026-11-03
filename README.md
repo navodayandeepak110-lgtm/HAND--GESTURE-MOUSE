@@ -44,3 +44,4 @@ A software-only solution to control your PC mouse using hand gestures via a webc
 ### 1. **MOVE CURSOR**
 *   **Pattern**: Raise **Index Finger** ONLY. Keep other fingers curled.
 *   **Action**: The mouse cursor follows your index fingertip.
+*   **Tips**: Keep your hand steady. Move within your camera's field of view.
