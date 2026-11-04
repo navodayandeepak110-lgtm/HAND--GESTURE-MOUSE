@@ -49,3 +49,6 @@ A software-only solution to control your PC mouse using hand gestures via a webc
 ### 2. **LEFT CLICK**
 *   **Pattern**: Pinch your **Thumb** and **Index Finger** together.
 *   **Action**: Triggers a Left Click.
+*   **Requirement**:
+    *   Fingers must touch (distance < 40px).
+    *   Hold for **0.25 seconds** (prevents accidental clicks).
