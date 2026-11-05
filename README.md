@@ -54,3 +54,5 @@ A software-only solution to control your PC mouse using hand gestures via a webc
     *   Hold for **0.25 seconds** (prevents accidental clicks).
 ### 3. **RIGHT CLICK**
 *   **Pattern**: Pinch your **Thumb** and **Middle Finger** together.
+*   **Action**: Triggers a Right Click (Context Menu).
+*   **Requirement**: Hold for **0.25 seconds**.
