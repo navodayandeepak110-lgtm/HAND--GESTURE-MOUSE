@@ -52,3 +52,5 @@ A software-only solution to control your PC mouse using hand gestures via a webc
 *   **Requirement**:
     *   Fingers must touch (distance < 40px).
     *   Hold for **0.25 seconds** (prevents accidental clicks).
+### 3. **RIGHT CLICK**
+*   **Pattern**: Pinch your **Thumb** and **Middle Finger** together.
