@@ -62,3 +62,5 @@ A software-only solution to control your PC mouse using hand gestures via a webc
 *   **Action**: Enters SCROLL MODE.
     *   Move Hand **UP** -> Scroll Page UP.
     *   Move Hand **DOWN** -> Scroll Page
+DOWN.
+*   **Exit**: Lower your middle finger to return to cursor control.
