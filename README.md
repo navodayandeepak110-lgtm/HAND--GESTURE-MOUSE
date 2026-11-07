@@ -56,3 +56,9 @@ A software-only solution to control your PC mouse using hand gestures via a webc
 *   **Pattern**: Pinch your **Thumb** and **Middle Finger** together.
 *   **Action**: Triggers a Right Click (Context Menu).
 *   **Requirement**: Hold for **0.25 seconds**.
+
+### 4. **SCROLL MODE**
+*   **Pattern**: Raise **Index** + **Middle Fingers** (Peace Sign / Victory Sign).
+*   **Action**: Enters SCROLL MODE.
+    *   Move Hand **UP** -> Scroll Page UP.
+    *   Move Hand **DOWN** -> Scroll Page
