@@ -64,3 +64,6 @@ A software-only solution to control your PC mouse using hand gestures via a webc
     *   Move Hand **DOWN** -> Scroll Page
 DOWN.
 *   **Exit**: Lower your middle finger to return to cursor control.
+### 5. **PAUSE / SAFETY**
+*   **Pattern**: Make a **Closed Fist**.
+*   **Action**: Pauses all system control immediately.
