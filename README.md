@@ -67,3 +67,4 @@ DOWN.
 ### 5. **PAUSE / SAFETY**
 *   **Pattern**: Make a **Closed Fist**.
 *   **Action**: Pauses all system control immediately.
+*   **Visual**: Screen border turns RED, Text says "PAUSED".
