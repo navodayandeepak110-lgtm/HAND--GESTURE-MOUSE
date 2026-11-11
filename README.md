@@ -70,3 +70,4 @@ DOWN.
 *   **Visual**: Screen border turns RED, Text says "PAUSED".
 ### 6. **QUIT**
 *   **Pattern**: Press **'Q'** on your keyboard.
+*   **Action**: Safery shutdown of the application.
