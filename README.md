@@ -68,3 +68,5 @@ DOWN.
 *   **Pattern**: Make a **Closed Fist**.
 *   **Action**: Pauses all system control immediately.
 *   **Visual**: Screen border turns RED, Text says "PAUSED".
+### 6. **QUIT**
+*   **Pattern**: Press **'Q'** on your keyboard.
