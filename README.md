@@ -71,3 +71,6 @@ DOWN.
 ### 6. **QUIT**
 *   **Pattern**: Press **'Q'** on your keyboard.
 *   **Action**: Safery shutdown of the application.
+## Configuration
+Tweak `config.py`:
+-   `SCROLL_SPEED`: Adjust scroll sensitivity.
