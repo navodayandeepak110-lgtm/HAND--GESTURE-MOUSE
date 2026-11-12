@@ -74,3 +74,5 @@ DOWN.
 ## Configuration
 Tweak `config.py`:
 -   `SCROLL_SPEED`: Adjust scroll sensitivity.
+-   `GESTURE_COOLDOWN`: Time between clicks.
+-   `SMOOTHING_FACTOR`: Cursor stability.
