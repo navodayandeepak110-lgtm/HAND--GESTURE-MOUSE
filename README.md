@@ -76,3 +76,6 @@ Tweak `config.py`:
 -   `SCROLL_SPEED`: Adjust scroll sensitivity.
 -   `GESTURE_COOLDOWN`: Time between clicks.
 -   `SMOOTHING_FACTOR`: Cursor stability.
+## Version 3 Roadmap (Future)
+-   **Voice Control**: "Computer, open browser".
+-   **Keyboard Input**: Air-typing interface.
