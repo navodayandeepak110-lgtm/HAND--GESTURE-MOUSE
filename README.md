@@ -79,3 +79,8 @@ Tweak `config.py`:
 ## Version 3 Roadmap (Future)
 -   **Voice Control**: "Computer, open browser".
 -   **Keyboard Input**: Air-typing interface.
+-   **Custom Gestures**: ML Training for user-defined signaling.
+
+
+---
+*Created for Portfolio Demonstration*
